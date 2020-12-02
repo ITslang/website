@@ -1,13 +1,13 @@
 ---
 title: Object-oriented Java
 subtitle: Middle
-image: /assets/img/timeline/2.jpg
+image: https://raw.githubusercontent.com/ITslang/website/master/assets/img/timeline/2.jpg
 alt: Keep Exploring
 
 caption:
   title: Object-oriented Java
   subtitle: Middle
-  thumbnail: /assets/img/timeline/2.jpg
+  thumbnail: https://raw.githubusercontent.com/ITslang/website/master/assets/img/timeline/2.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

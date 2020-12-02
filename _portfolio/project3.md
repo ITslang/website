@@ -1,13 +1,13 @@
 ---
 title: Professional Java
 subtitle: Advanced
-image: /assets/img/timeline/3.jpg
+image: https://raw.githubusercontent.com/ITslang/website/master/assets/img/timeline/3.jpg
 alt: 
 
 caption:
   title: Professional Java
   subtitle: Advanced
-  thumbnail: /assets/img/timeline/3.jpg
+  thumbnail: https://raw.githubusercontent.com/ITslang/website/master/assets/img/timeline/3.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
