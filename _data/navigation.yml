@@ -1,6 +1,9 @@
 nav:
-  - title: "Levels"
+  - title: "Why IT"
     section: services
+
+  - title: "About us"
+    section: timeline
 
   - title: "Programs"
     section: portfolio

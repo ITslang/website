@@ -5,23 +5,57 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Levels"
-    text: "Lorem ipsum"
+    title: "Why IT?"
+    text: ""
     section: services
     list:
-      - title: "Start"
+      - title: "Perspective"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-lightbulb #find more at https://fontawesome.com/icons
-      - title: "OOP"
+        icon: fas fa-seedling #find more at https://fontawesome.com/icons
+      - title: "Demand"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop-code
-      - title: "Professional"
+        icon: fas fa-globe
+      - title: "Development"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-brain
+      - title: "Interesting Job"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-code
+      - title: "High Pay"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-coins
+      - title: "Remote"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-laptop-code
+
+timeline:
+    title: "About us"
+    text: "We will be your guide along this path:"
+    section: timeline
+    events:
+      - title: "Beginner"
+        #year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt:
+        align: left
+      - title: "Middle"
+        #year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+        align: right
+      - title: "Advanced"
+        #year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left
+    end: "Join Us! <br> Go to <br> IT!"
 
 portfolio:
     title: "Programs"
-    text: "Lorem ipsum dolor sit amet consectetur."
+#    text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
 contact:
