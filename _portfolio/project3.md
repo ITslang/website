@@ -9,23 +9,23 @@ caption:
   subtitle: Advanced
   thumbnail: https://raw.githubusercontent.com/ITslang/website/master/assets/img/timeline/3.jpg
 ---
-__`Reflection API. Annotations.`__<br>
-__`XML. JSON.`__<br>
-__`Introduction to Maven.`__<br>
-__`Dependency Injection and Spring.`__<br>
-__`Client-Server Architecture.`__<br>
-__`Web-applications.`__<br>
-__`Spring Boot Overview.`__<br>
-__`Databases and JDBC`__<br>
-__`SQL Basics. CRUD operations.`__<br>
-__`Object-Relational Mapping`__<br>
-__`Java Messaging Service.`__<br>
-__`Testing and Mocking.`__<br>
-__`Version control systems: Git basics.`__<br>
-__`Design Patterns overview.`__<br>
-__`Multilayer Diploma Project.`__<br>
-__`CV preparation.`__<br>
+✔ Reflection API. Annotations<br>
+✔ XML. JSON<br>
+✔ Introduction to Maven<br>
+✔ Dependency Injection and Spring<br>
+✔ Client-Server Architecture<br>
+✔ Web-applications<br>
+✔ Spring Boot Overview<br>
+✔ Databases and JDBC<br>
+✔ SQL Basics. CRUD operations<br>
+✔ Object-Relational Mapping<br>
+✔ Java Messaging Service<br>
+✔ Testing and Mocking<br>
+✔ VCS: Git basics<br>
+✔ Design Patterns overview<br>
+✔ Multilayer Diploma Project<br>
+✔ CV preparation<br>
 
 {:.list-inline}
-- _Length: 6 weeks_
-- _Price: ..._
+- ___Length: 6 weeks___
+- ___Price: ...___
