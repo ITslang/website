@@ -19,7 +19,7 @@ services:
         desc: "<b>IT</b> is very dynamic field encouraging continuous self-development."
         icon: fas fa-brain
       - title: "Interesting Job"
-        desc: "<b>IT</b> is interesting and fun - you will not be bored. 😄"
+        desc: "<b>IT</b> is interesting and fun - you will not be bored.<br>😄"
         icon: fas fa-code
       - title: "High Pay"
         desc: "<b>IT</b> sector is one of the highly paid on the market."
@@ -35,19 +35,19 @@ timeline:
     events:
       - title: "Beginner"
         #year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Basic programing concepts:<br>Procedural Java"
         image: assets/img/timeline/1.jpg
         alt:
         align: left
       - title: "Middle"
         #year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Object-oriented programing:<br>Java SE"
         image: assets/img/timeline/2.jpg
         alt:
         align: right
       - title: "Advanced"
         #year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Enterprise Frameworks:<br>Professional Java"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left
@@ -60,7 +60,7 @@ portfolio:
 
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+#    text: "Lorem ipsum or call 123456789"
     section: contact
     
 footer:

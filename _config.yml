@@ -19,6 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : ITslang
 email      : itslang.school@gmail.com #this is also the email contact forms will go to
+#formspree_form_path: f/xdopwnqo
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 # logo:     #optional, defaults to site title
@@ -26,7 +27,7 @@ author     : Your Name
   # height: 60 #height in px, defaults to 52px
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-QTPLR7VXVX
 
 collections:
   portfolio:
