@@ -1,9 +1,10 @@
 nav:
-  - title: "Why IT"
-    section: services
 
   - title: "About us"
     section: timeline
+
+  - title: "Why IT"
+    section: services
 
   - title: "Programs"
     section: portfolio

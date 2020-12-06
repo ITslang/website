@@ -1,8 +1,8 @@
 header:
     title: Welcome to ITslang!
-    text: It's Nice To Meet You
+    text: Java courses in English
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#timeline" # "#{section}" or "URL/page link"
 
 services:
     title: "Why IT?"
@@ -10,22 +10,22 @@ services:
     section: services
     list:
       - title: "Perspective"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "No career boundaries - <b>IT</b> specialist is paid as much as he deserves."
         icon: fas fa-seedling #find more at https://fontawesome.com/icons
       - title: "Demand"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "<b>IT</b> is a popular field and the demand for specialists grows from year to year."
         icon: fas fa-globe
       - title: "Development"
-        desc: "Your description here, full **Markdown** support"
+        desc: "<b>IT</b> is very dynamic field encouraging continuous self-development."
         icon: fas fa-brain
       - title: "Interesting Job"
-        desc: "Your description here, full **Markdown** support"
+        desc: "<b>IT</b> is interesting and fun - you will not be bored. 😄"
         icon: fas fa-code
       - title: "High Pay"
-        desc: "Your description here, full **Markdown** support"
+        desc: "<b>IT</b> sector is one of the highly paid on the market."
         icon: fas fa-coins
       - title: "Remote"
-        desc: "Your description here, full **Markdown** support"
+        desc: "<b>IT</b> provides possibility to work remotely from anywhere in the world."
         icon: fas fa-laptop-code
 
 timeline:
