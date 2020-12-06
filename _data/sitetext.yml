@@ -33,18 +33,12 @@ why_java:
   text: ""
   section: services
   list:
-    - title: "Easy to Learn"
-      icon: fas fa-lightbulb
-    - title: "Platform Independent"
-      icon: fab fa-microsoft
-    - title: "Rich API"
-      icon: fas fa-american-sign-language-interpreting
-    - title: "Free"
-      icon: fas fa-comment-dollar
-    - title: "Widely Used"
+    - title: "Easy to Learn and<br>Widely Used"
       icon: fab fa-java
-    - title: "Biggest Community"
+    - title: "Big Community and<br>Rich API"
       icon: fas fa-users
+    - title: "Cross-platform<br>Software"
+      icon: fab fa-microsoft
 
 timeline:
     title: "About us"
@@ -53,19 +47,19 @@ timeline:
     events:
       - title: "<br>Beginner"
         #year: "2009-2011"
-        desc: "Basic programing concepts:<br>Procedural Java"
+        desc: "Basic Concepts:<br>Procedural Programming"
         image: assets/img/timeline/1.jpg
         alt:
         align: left
       - title: "<br>Middle"
         #year: "March 2011"
-        desc: "Object-oriented programing:<br>Java SE"
+        desc: "Object-oriented programming:<br>Classes and Objects"
         image: assets/img/timeline/2.jpg
         alt:
         align: right
       - title: "<br>Advanced"
         #year: "2019"
-        desc: "Enterprise Frameworks:<br>Professional Java"
+        desc: "Enterprise Frameworks:<br>Professional Tool Stack"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left
