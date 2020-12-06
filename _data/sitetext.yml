@@ -33,11 +33,11 @@ why_java:
   text: ""
   section: services
   list:
-    - title: "Easy to Learn and<br>Widely Used"
+    - title: "Easy to Learn and<br>Widely Used<br>"
       icon: fab fa-java
-    - title: "Big Community and<br>Rich API"
+    - title: "Big Community and<br>Rich API<br>"
       icon: fas fa-users
-    - title: "Cross-platform<br>Software"
+    - title: "Cross-platform<br>Software<br>"
       icon: fab fa-microsoft
 
 timeline:
