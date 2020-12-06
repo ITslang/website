@@ -6,6 +6,9 @@ nav:
   - title: "Why IT"
     section: services
 
+  - title: "Why Java"
+    section: why_java
+
   - title: "Courses"
     section: portfolio
 

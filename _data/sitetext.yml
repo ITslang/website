@@ -28,6 +28,24 @@ services:
         desc: "<b>IT</b> provides possibility to work remotely from anywhere in the world."
         icon: fas fa-laptop-code
 
+why_java:
+  title: "Why Java?"
+  text: ""
+  section: services
+  list:
+    - title: "Easy to Learn"
+      icon: fas fa-lightbulb
+    - title: "Platform Independent"
+      icon: fab fa-microsoft
+    - title: "Rich API"
+      icon: fas fa-american-sign-language-interpreting
+    - title: "Free"
+      icon: fas fa-comment-dollar
+    - title: "Widely Used"
+      icon: fab fa-java
+    - title: "Biggest Community"
+      icon: fas fa-users
+
 timeline:
     title: "About us"
     text: "We will be your guide along this path:"
